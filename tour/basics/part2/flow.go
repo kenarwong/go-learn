@@ -13,7 +13,7 @@ func Flow() {
 	fmt.Println()
 	flowcontrols.If()
 	fmt.Println()
-	fmt.Println("Estimation: Square Root Estimation")
+	fmt.Println("Exercise: Square Root Estimation")
 	fmt.Println("------")
 	zrt.Sqrt(28)
 	fmt.Println()
