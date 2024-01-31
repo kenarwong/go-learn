@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"tour/basics/part1"
 	"tour/basics/part2"
+	"tour/basics/part3"
 )
 
 func main() {
@@ -20,5 +21,7 @@ func main() {
 	part1.Constants()
 	fmt.Println()
 	part2.Flow()
+	fmt.Println()
+	part3.MoreTypes()
 	fmt.Println()
 }
