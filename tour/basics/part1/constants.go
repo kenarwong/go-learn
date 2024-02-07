@@ -23,7 +23,7 @@ func Constants() {
 	fmt.Println("Constants")
 	fmt.Println("------")
 
-	// Constants cannot be short-assigned
+	// Constants cannot be short-assigned i.e. :=
 	const World = "世界"
 	fmt.Println("Hello", World)
 	fmt.Println("Happy", Pi, "Day")

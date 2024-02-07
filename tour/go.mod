@@ -1,4 +1,4 @@
-module tour/basics
+module tour
 
 go 1.16
 

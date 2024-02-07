@@ -1,4 +1,4 @@
-package main
+package basics
 
 import (
 	"fmt"
@@ -7,7 +7,7 @@ import (
 	"tour/basics/part3"
 )
 
-func main() {
+func Basics() {
 	fmt.Println("Basics")
 	fmt.Println("------")
 	part1.Packages()
